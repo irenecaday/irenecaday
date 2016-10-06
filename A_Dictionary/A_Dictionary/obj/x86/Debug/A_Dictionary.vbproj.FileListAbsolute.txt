@@ -1,0 +1,13 @@
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\MainWindow.baml
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\Application.g.vb
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary_MarkupCompile.cache
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.g.resources
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.Resources.resources
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.vbproj.GenerateResource.Cache
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\bin\Debug\A_Dictionary.exe
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\bin\Debug\A_Dictionary.pdb
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\bin\Debug\A_Dictionary.xml
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.exe
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.xml
+C:\Users\ESTUDYANTE\Desktop\jgb\WinPH\WinPH\CodeRunner\IfThenElse\IfThenElse\CADAY\A_Dictionary\A_Dictionary\obj\x86\Debug\A_Dictionary.pdb
